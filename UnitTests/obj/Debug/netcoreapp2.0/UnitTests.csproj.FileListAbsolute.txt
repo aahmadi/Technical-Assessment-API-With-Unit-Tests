@@ -1,0 +1,16 @@
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\API.dll
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\bin\Debug\netcoreapp2.0\API.pdb
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Dev\Learning\ASPNETCoreExercise\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
